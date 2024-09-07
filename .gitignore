@@ -3,6 +3,7 @@
 .project
 .idea/
 .vscode/
+/dist
 
 node_modules
 *.log
